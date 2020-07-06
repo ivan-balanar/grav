@@ -362,3 +362,22 @@ h2 {
     display: flex;
     position: relative;
 }
+
+.clients {
+    padding-top: 278px;
+}
+
+.clients-row {
+    margin-top: 127px;
+}
+
+.footer {
+    margin-top: 136px;
+    height: 240px;
+    background: #515151;
+}
+
+.footer-logo {
+    margin-top: 109px;
+    margin-bottom: 109px;
+}

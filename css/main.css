@@ -338,3 +338,27 @@ h2 {
     margin-top: -32px;
 }
 
+.testimonials {
+    padding-top: 248px;
+}
+
+.contributor {
+    margin-top: 121px;
+}
+
+.contributor__title {
+    margin-bottom: 10px;
+}
+
+.contributor__description {
+
+}
+
+.contributor-photo {
+    display: block;
+}
+
+.contributor-carousel .owl-nav {
+    display: flex;
+    position: relative;
+}
